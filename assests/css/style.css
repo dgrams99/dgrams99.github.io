@@ -1,0 +1,171 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #dddddd;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../images/qbkls.png);
+}
+
+
+header{
+    margin: 0px 0px;
+    padding: 25px 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color:#ffffff;
+}
+#name{
+    margin: 7px 299px;
+    padding: 22px 6px;
+    background-color: #4aaaa5;
+    float: left;
+    color: #dddddd;
+}
+ul{
+    list-style-type: none;
+    margin: 15px;
+    padding: 5px;
+   
+    
+}
+li{
+   margin:  15px 5px;
+    display: inline;
+    font-size: 20px;
+}
+li a{
+    margin-top: 10px;
+    float: right;
+    font-size: 15px;
+    text-decoration: none;
+    display: inline-block;
+    color: #4aaaa5;
+    padding: 2px 17px;
+
+}
+
+li a:hover{
+    background-color: #555;
+    color: white;
+}
+
+.container{
+      
+    background-color: #ffffff;
+    padding: 5px 50px;
+    width: 960px 960px;
+    margin: 20px 300px;
+}
+.footer {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:#4aaaa5;
+    color: #dddddd;
+    text-align: center;
+    font-size: 10px;
+    
+}
+#image1{
+    float: left;
+    margin: 5px 15px;
+    padding: 5px 15px;
+
+}
+h2{
+    margin: 20px 0px;
+    border-bottom-style: ridge;
+    font-size: 26px;
+    color: #4aaaa5;
+
+}
+#contact-form{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    padding-top: 5px;
+   
+   
+}
+.form-control{
+
+    font-size: 15px;
+    color: #ffffff; 
+    width: 750px;
+}
+.form-control-submit{
+    margin: 0px 0px;
+    padding: 10px 15px 10px 15px;
+    background-color: #4aaaa5;
+    border-style: solid;
+    color: #ffffff;
+}
+#Home-Button{
+    margin-top: 10px;
+    margin-left: -290px;
+    float: left;
+    width: 40px;
+    height: 40px;
+  
+}
+#Home-Button:hover{
+    opacity: 0.4;
+}
+  
+.image2{
+    position: relative;
+    top: 100px;
+}
+#project1{
+    position: absolute;
+    bottom: 50px;
+    right: 50px;
+
+    background-color:#4aaaa5;
+    color: white;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+   
+}
+/* #project2{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px; 
+}
+#project3{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#project4{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#project5{
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+} */
+#intro{
+    
+}
